@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/100958927/213878876-6b9f8890-7a79-4107-bba5-3130bcacabcf.png)
     
   ### Api con información de cervecerías
-    Contiene informacion del nombre, id, dirección, url de la pagina, etc
+    Contiene informacion del nombre, id, dirección, url de la pagina, etc en la siguiente url: https://api.openbrewerydb.org/breweries/10-56-brewing-company-knox donde 10-56-brewing-company-knox es el id de la cervecería que he elegido para traducir.
     
     Se ha programado de forma similar y el resultado es el siguiente:
 ![image](https://user-images.githubusercontent.com/100958927/213878970-40899845-1ddf-42e6-a623-55161bb97bd3.png)
