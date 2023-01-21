@@ -4,7 +4,6 @@ import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
-import com.sun.org.apache.xerces.internal.impl.dv.util.Base64;
 import java.awt.print.Book;
 import java.io.BufferedReader;
 import java.io.IOException;
