@@ -34,7 +34,7 @@ public class Kata6 {
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
         marshaller.marshal(word, System.out); 
         
-        
+        /*LECTOR DE UN JASON A XML SOBRE UNA CERVERÍA EN CONCRETO*/
         
         String cerveceria_json = read("https://api.openbrewerydb.org/breweries/10-56-brewing-company-knox");
          
